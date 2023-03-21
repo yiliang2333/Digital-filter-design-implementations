@@ -6,3 +6,4 @@ This function is to implement **tf2sos** function and the core part is the ***ro
 A self-created function to achieve a maximum 8-order Butterworth filter in C.
 ## Bessel 
 1-5 order Bessel filter is implemented based on python scipy library and the definition in Wikipedia using Matlab.
+## Notch filter
